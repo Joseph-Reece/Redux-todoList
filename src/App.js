@@ -12,6 +12,7 @@ function App() {
   return (
     <div className="app">
       <div className="app__container">
+        <h2>Todo List</h2>
         <div className="app__todoContainer">
           {
             todoList.map((todo, idx) => (

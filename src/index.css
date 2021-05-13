@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Aladin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 
 * {
   margin: 0;
@@ -6,7 +6,7 @@
 
 body {
   margin: 0;
-  font-family: 'Aladin', cursive;
+  font-family: 'Indie Flower', cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background:#161623;
